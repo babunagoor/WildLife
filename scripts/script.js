@@ -1,7 +1,7 @@
 /*
-    Author: Mari Ullom
+    Author:  Nagoor B
     File Name: template.html
-    Today's Date: January 22, 2022
+    Today's Date: September 09, 2022
 */
 
 //Global variables
